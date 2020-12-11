@@ -1,4 +1,4 @@
-# An Analysis of Kickstarter Campaigns
+# An Analysis of Kickstarter Campaigns with Excel 
 
 ## Overview of Project
 This project performs an analysis of kickstarter campaigns to aid client seeking to start her a fundraising campaign for her play
